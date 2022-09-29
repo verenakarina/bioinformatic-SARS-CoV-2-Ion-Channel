@@ -1,0 +1,61 @@
+LOCUS       MN379902                 392 bp    RNA     linear   VRL 09-OCT-2019
+DEFINITION  Deltacoronavirus sp. isolate 2615 nucleocapsid protein (N) gene,
+            partial cds.
+ACCESSION   MN379902
+VERSION     MN379902.1
+KEYWORDS    .
+SOURCE      Deltacoronavirus sp.
+  ORGANISM  Deltacoronavirus sp.
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Deltacoronavirus.
+REFERENCE   1  (bases 1 to 392)
+  AUTHORS   Paim,F.C., Bowman,A.S., Miller,L., Feehan,B.J., Marthaler,D.,
+            Saif,L.J. and Vlasova,A.N.
+  TITLE     Epidemiology of Deltacoronaviruses (delta-CoV) and
+            Gammacoronaviruses (gamma-CoV) in Wild Birds in the United States
+  JOURNAL   Viruses 11 (10), E897 (2019)
+   PUBMED   31561462
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 392)
+  AUTHORS   Paim,F., Saif,L., Bowman,A., Miller,L., Feehan,B., Marthaler,D. and
+            Vlasova,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-AUG-2019) Preventive Veterinary Medicine, The Ohio
+            State University, Food Animal Health Research Program, The Ohio
+            Agricultural Research and Development Center, Department of
+            Veterinary Preventive Medicine, The Ohio State University, 1680
+            Madison Ave., Wooster, OH 44691, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..392
+                     /organism="Deltacoronavirus sp."
+                     /mol_type="genomic RNA"
+                     /isolate="2615"
+                     /isolation_source="cloacal swab"
+                     /host="blue-winged teal; wild bird"
+                     /db_xref="taxon:1911231"
+                     /country="USA: Illinois"
+                     /collection_date="2017"
+     gene            <1..389
+                     /gene="N"
+     CDS             <1..389
+                     /gene="N"
+                     /codon_start=3
+                     /product="nucleocapsid protein"
+                     /protein_id="QFE96884.1"
+                     /translation="PRLMALMRFVPGTQGLLFAGHLKHKMQPEGVQLTFTYDITVKRD
+                     NKDFDKIVEALNSVVDMVYEPDGDASAKEPQPKKETQPKKKAEKKTPTNPQKQPDKPV
+                     AAIVDNGDSQVINWGTDPSEGLESFS"
+ORIGIN      
+        1 ttccgcgcct catggctctc atgcggtttg tacctggcac gcagggatta ctgtttgctg
+       61 ggcatcttaa gcataagatg cagcctgaag gagtgcagct cacttttaca tatgacatca
+      121 ctgttaagcg tgacaacaaa gacttcgaca agattgttga ggccctcaat agtgttgtcg
+      181 acatggtcta cgaacctgat ggtgatgcat ctgctaaaga gccacagcca aagaaggaaa
+      241 ctcaacctaa gaagaaggct gagaagaaaa cacccactaa tccccaaaag caacctgaca
+      301 agcctgttgc cgcaattgtc gacaacgggg attcccaggt aataaattgg ggaactgatc
+      361 catctgaggg tctagaatcc ttctcatgaa aa
+//
+

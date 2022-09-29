@@ -1,0 +1,49 @@
+LOCUS       JN788788                 357 bp    RNA     linear   VRL 09-NOV-2011
+DEFINITION  Avian coronavirus isolate J0569/Platalea minor/091127 RNA dependent
+            RNA polymerase gene, partial cds.
+ACCESSION   JN788788
+VERSION     JN788788.1
+KEYWORDS    .
+SOURCE      Avian coronavirus (ACoV)
+  ORGANISM  Avian coronavirus
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Gammacoronavirus; Igacovirus.
+REFERENCE   1  (bases 1 to 357)
+  AUTHORS   Chu,D.K., Leung,C.Y., Gilbert,M., Joyner,P.H., Ng,E.M., Tse,T.M.,
+            Guan,Y., Peiris,J.S. and Poon,L.L.
+  TITLE     Avian coronavirus in wild aquatic birds
+  JOURNAL   J. Virol. 85 (23), 12815-12820 (2011)
+   PUBMED   21957308
+REFERENCE   2  (bases 1 to 357)
+  AUTHORS   Chu,D.K.W., Leung,C.Y.H., Gilbert,M., Joyner,P.H., Ng,E.M.,
+            Tse,T.M., Guan,Y., Peiris,J.S.M. and Poon,L.L.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-SEP-2011) Microbiology, The University of Hong Kong,
+            Queen Mary Hospital, Pokfulam Road, Hksar
+FEATURES             Location/Qualifiers
+     source          1..357
+                     /organism="Avian coronavirus"
+                     /mol_type="genomic RNA"
+                     /isolate="J0569/Platalea minor/091127"
+                     /host="Platalea minor"
+                     /db_xref="taxon:694014"
+                     /country="Hong Kong"
+                     /collection_date="27-Nov-2009"
+     CDS             <1..>357
+                     /note="RdRp"
+                     /codon_start=1
+                     /product="RNA dependent RNA polymerase"
+                     /protein_id="AER00346.1"
+                     /translation="SSLLLARKHTCCTQSQRFYRLANECCQVLSEIVISGNILYVKPG
+                     GTSSGDATTAYANSVFNILQVVSANVAALLSTQTINHSTTDVCKLHRQVYETIYRGSS
+                     DDTNTINAFYDHLKNYF"
+ORIGIN      
+        1 tctagtttgc ttttggcacg aaaacacact tgttgcaccc agagccaacg cttttacaga
+       61 ttggctaatg agtgttgtca ggtattgtct gaaattgtca tatctgggaa cattctgtat
+      121 gtaaaaccag gtggtactag cagtggtgat gcaaccacag cctatgccaa ctctgttttt
+      181 aatattctac aagtagtctc tgcaaatgtt gcagcgttac tttccaccca aactataaat
+      241 cattctacta ctgatgtgtg taagttgcac agacaggtgt atgaaaccat ttatagaggt
+      301 tcatcagacg ataccaacac tatcaatgcc ttttatgatc acctaaagaa ctatttt
+//
+
