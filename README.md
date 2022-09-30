@@ -4,4 +4,4 @@
 * There are 4 clades that were observed: Alpha, Beta, Gamma, and Delta.
 * This is a part of my summer project as a bioinformatics research assistant in Assoc Prof Konstantin Pervushin, NTU School of Biological Science.
 * Major contributor for the MATLAB code: Assoc Prof Konstantin Pervushin.
-* Deepest gratitude to Reema Alag as a research fellow who helped me along the way.
+* Deepest gratitude to Reema Alag as the research fellow who helped me along the way.
